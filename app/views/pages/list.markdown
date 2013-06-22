@@ -68,7 +68,7 @@
 ### Let's talk about your database:
 - [ ] If you're on MySql, let's change to Postgresql, locally too
 
-### Let's talk about deprecated gems: 
+### Let's talk about deprecated gems:
 - [ ] You have 1 major version before they'll stop working and nobody will care.
 - [ ] What about if you're using a gem with no upgrade path: Remove or Replace the feature
 
