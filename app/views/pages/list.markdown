@@ -20,7 +20,6 @@
 - [ ] Look at your gems --- if you're still in production in Rails 2.3, you'll likely need to upgrade gems to different versions
 - [ ] Look at your test suite (if any). Make a set of controller tests that load your page. If RSpec 1.0, integrate with webkit to load every page in the system. This is your sanity check.
 - [ ] Look at your Routes file. If it's just a - [controller/action/id] , you're in for a hard time. Eventually we'll remove this and have a proper routing system
-- [ ] Use [RailsDiff](http://railsdiff.org/) to identify additional required configuration changes
 
 <a id="3.0"></a>
 ## Getting to Rails 3.0
@@ -34,7 +33,6 @@
 - [ ] If your pages load, that means you have a somewhat functioning rails 3.0 application. Commit your changes and get it on heroku for your staff/helpers/friends&family to go to
 - [ ] Let's talk about Authentication. Don't continue to run `acts_as_authenticatable` or `auth_modules` just because its there. My recommendation: replace with devise and send your users a link to reset their password. This is controversial, as your users will know something's up… but: something IS up, you're not as secure as you need to be
 - [ ] Update your mailers to the new syntax (and add tests to cover this case)
-- [ ] Use [RailsDiff](http://railsdiff.org/) to identify additional required configuration changes
 
 <a id="3.2"></a>
 ## Getting to Rails 3.2
