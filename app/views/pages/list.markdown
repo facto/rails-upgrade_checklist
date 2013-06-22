@@ -78,7 +78,7 @@
 
 ### Does this process suck?
 - YES: OMG SUCKS
-- BUT: Rails 4.0 is a flipping dream. If you go back to Rails 2.3 you will hate life. Rails 3.0: less hate, but melancholy. Rails 3.1: you're ok, and glad you skipping the whole `attr_accessible` things.
+- BUT: Rails 4.0 is a flipping dream. If you go back to Rails 2.3 you will hate life. Rails 3.0: less hate, but melancholy. Rails 3.1: you're ok, and glad you're skipping the whole `attr_accessible` things.
 
 ## YAY -- What should you do with this list?
 
